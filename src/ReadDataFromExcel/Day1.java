@@ -41,5 +41,8 @@ public class Day1 {
 		String s=arr.toString();
 		System.out.println(s);
 		
+		
+		
+		driver.close();
 	}
 }
